@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "DigitalClockV007",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"pgmspace.h": "c"
+		}
+	}
+}
